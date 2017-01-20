@@ -1,0 +1,7 @@
+name: SingleSuite
+threadCount: 4
+
+tests:
+  
+    classes:
+      - rd1.Testq
